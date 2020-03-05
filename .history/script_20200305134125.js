@@ -1,0 +1,1 @@
+const record = document.getElementById('record');
